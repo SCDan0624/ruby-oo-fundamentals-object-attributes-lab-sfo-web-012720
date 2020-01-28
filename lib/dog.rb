@@ -8,6 +8,6 @@ class Dog
   end
   
   def name 
-    @name = name #getter
+    @name #getter
   end
 end
